@@ -1,4 +1,4 @@
 # hello-world
 An Intro to ML
 
-Hurry up, we're sleeping.
+Hurry up, we're dreaming.
